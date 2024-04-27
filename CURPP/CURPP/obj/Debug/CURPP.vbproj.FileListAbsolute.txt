@@ -1,0 +1,12 @@
+C:\Users\Tachi\source\repos\CURPP\CURPP\bin\Debug\CURPP.exe.config
+C:\Users\Tachi\source\repos\CURPP\CURPP\bin\Debug\CURPP.exe
+C:\Users\Tachi\source\repos\CURPP\CURPP\bin\Debug\CURPP.pdb
+C:\Users\Tachi\source\repos\CURPP\CURPP\bin\Debug\CURPP.xml
+C:\Users\Tachi\source\repos\CURPP\CURPP\obj\Debug\CURPP.vbproj.AssemblyReference.cache
+C:\Users\Tachi\source\repos\CURPP\CURPP\obj\Debug\CURPP.Form1.resources
+C:\Users\Tachi\source\repos\CURPP\CURPP\obj\Debug\CURPP.Resources.resources
+C:\Users\Tachi\source\repos\CURPP\CURPP\obj\Debug\CURPP.vbproj.GenerateResource.cache
+C:\Users\Tachi\source\repos\CURPP\CURPP\obj\Debug\CURPP.vbproj.CoreCompileInputs.cache
+C:\Users\Tachi\source\repos\CURPP\CURPP\obj\Debug\CURPP.exe
+C:\Users\Tachi\source\repos\CURPP\CURPP\obj\Debug\CURPP.xml
+C:\Users\Tachi\source\repos\CURPP\CURPP\obj\Debug\CURPP.pdb
